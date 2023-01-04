@@ -1,7 +1,7 @@
 # Randomuser Connector
-A connector that periodically extracts user records from [randomuser](https://randomuser.me/api) and provisions and endpoint that allows clients to fetch users sorted by countries.
+A connector that periodically extracts user records from [randomuser](https://randomuser.me/api) and provisions an endpoint that allows clients to fetch users sorted by countries.
 The Connector is a serverless system following the IaC paradigm.
-It builds on serverless AWS cloud service offers and the AWS CDK.
+It builds on serverless AWS cloud service offers and the AWS CDK for Python.
 
 ## Prerequisites
 - [Python Python 3.9](https://www.python.org/downloads/)
